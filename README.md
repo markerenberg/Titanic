@@ -1,6 +1,7 @@
 # Titanic
 Submissions and code for Titanic: Machine Learning from Disaster Kaggle competition
 
+# This project was completed by Mark Erenberg, Derek Ho, and Charlie Wu.
 
 # The purpose of this competition was to predict which passengers of the RMS Titanic survived the tragedy.
 
